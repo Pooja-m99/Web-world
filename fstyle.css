@@ -1,0 +1,195 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: Sans-serif;
+	background: linear-gradient(#fff,#d9ddeb)
+}
+
+header{
+	background: #415e9b;
+	height: 82px;
+}
+
+.head-block{
+	width: 992px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.head-block label{
+	color: white;
+}
+
+.logo{
+	width: 50%;
+	float: left;
+	color: white;
+	font-size: 40px;
+	padding-top: 5px;
+	font-weight: bold;
+}
+
+.login{
+	width: 50%;
+	float: left;
+}
+
+.user-mail{
+	float: left;
+	padding-left: 89px;
+}
+
+.user-mail label{
+	font-size: 13px;
+}
+
+.user-pass{
+	float: left;
+	padding-left: 15px;
+}
+
+.user-pass label{
+	font-size: 13px;
+}
+
+.user-pass a{
+	font-size: 12px;
+	color: #8fb1d8;
+	text-decoration: none;
+}
+
+.login-button{
+	float: left;
+	padding-left: 20px;
+	padding-top: 18px;
+}
+
+.login-button input[type="submit"]{
+	background-color: #4267b2;
+	border: 1px solid #29487d;
+	border-radius: 2px;
+	color: white;
+	height: 20px;
+	width: 50px;
+}
+
+.connect{
+	float: left;
+	padding-left: 280px;
+}
+
+.connect p{
+	color: #0e385f;
+	font-size: 21px;
+	font-weight: bold;
+	padding-top: 50px;
+}
+
+.connect img{
+	width:500px;
+	padding-top: 50px;
+}
+
+.create-account{
+	float: left;
+	padding-left: 100px;
+	padding-top: 25px;
+}
+
+.create-account h1{
+	padding-bottom: 10px;
+	font-size: 37px;
+}
+
+.create-account p{
+	font-size: 18px;
+}
+
+.create-account input[type="text"] {
+	height: 36px;
+	font-size: 18px;
+	padding-left: 7px;
+	width: 180px;
+}
+
+.create-account input[type="password"] {
+	height: 36px;
+	font-size: 18px;
+	padding-left: 7px;
+	width: 375px;
+}
+
+.create-account input[type="tel"] {
+	height: 36px;
+	font-size: 18px;
+	padding-left: 7px;
+	width: 375px;
+}
+
+.create-account input[type="submit"]{
+	height: 36px;
+	width: 180px;
+	font-size: 18px;
+	background: linear-gradient(#95d67c,#65a953)
+}
+
+.create-account input[value="Sign Up"]{
+	color: white;
+	font-weight: bold;
+	border: 1px solid forestgreen;
+}
+
+#fresh{
+	padding-top: 20px;
+	padding-bottom: 5px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #808080;
+}
+
+#tiff{
+	font-size: 12px;
+	color: #77777a;
+}
+
+#ash{
+	text-decoration: none;
+}
+
+#bash{
+	text-decoration: none;
+}
+
+.opty{
+	height: 30px;
+	width: 65px;
+}
+
+#bit{
+	text-decoration: none;
+	font-size: 14px; 
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+#rift{
+	font-size: 14px; 
+	color: #808080;
+	font-weight: bold;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.last-block{
+	float: left;
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	background: white;
+	height: 100px;
+	font-size: 12px;
+	padding-top: 30px;
+}
